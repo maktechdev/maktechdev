@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maktechdEV
-- 👀 I’m interested in Data Science, System Development, Security
+- 👀 I’m interested in Data Science, System Development, Cyber Security
 - 🌱 I’m currently learning Programming, Algorithms, DataStructures & DataBases, Cybersecurity
 - 💞️ I’m looking to collaborate on opensource and commercial projects in the fields of my interest
 - 📫 How to reach me: Follow me here
